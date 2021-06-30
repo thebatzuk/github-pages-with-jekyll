@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "thebatzuk"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Do you hear that thunder?... that's the sound of strength in numbers.
